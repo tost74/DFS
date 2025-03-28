@@ -1,1 +1,1 @@
-A simple implementation of Depth First Search algorithm with irregullar tree. Example of graph in addictional file.
+A simple implementation of Depth First Search algorithm with an irregullar tree. An example of a graph in addictional file.
